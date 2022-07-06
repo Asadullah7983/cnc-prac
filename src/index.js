@@ -1,9 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 ReactDOM.render(
+    <div class="container">
+        <h1>hi asadd</h1>
     <div>
-    <h1>hi asad</h1>
-    <p>forget me</p>
+        <p>forget me</p>
+    </div>
     </div>,
     document.getElementById("root")
     );
